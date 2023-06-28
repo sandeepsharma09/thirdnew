@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /_og
+
+# Host
+Host: https://thirdweb.com
+
+# Sitemaps
+Sitemap: https://thirdweb.com/sitemap.xml
