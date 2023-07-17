@@ -11216,10 +11216,10 @@ near-seed-phrase@^0.2.0:
     near-hd-key "^1.2.1"
     tweetnacl "^1.0.2"
 
-next-plausible@^3.6.5:
-  version "3.7.2"
-  resolved "https://registry.yarnpkg.com/next-plausible/-/next-plausible-3.7.2.tgz#33eae204a00ad01b7851b319e115eab8e0815fa6"
-  integrity sha512-9PqFiVtD1kZO5gHFYTcgilHhg2WhMzD6I4NK/RUh9DGavD1N11IhNAvyGLFmvB3f4FtHC9IoAsauYDtQBt+riA==
+next-plausible@^3.10.0:
+  version "3.10.0"
+  resolved "https://registry.yarnpkg.com/next-plausible/-/next-plausible-3.10.0.tgz#9a195c751b7baa93ec98f28cd8bee78593ab88ed"
+  integrity sha512-iXnt0+whmegBDCjcoSxMWpnBfdDKGKoYGXnFnS0miRxv5J5yzOi1nWQcDUOIYCk39tcclpBpC5hwtI4f3cZfNw==
 
 next-seo@^6.1.0:
   version "6.1.0"
